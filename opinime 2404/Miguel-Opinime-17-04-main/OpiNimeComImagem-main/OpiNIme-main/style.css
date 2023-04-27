@@ -1,0 +1,51 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.cabeçalho{
+    background-color: #000000;
+}
+
+.Imagem-Logo{
+    width: 18%;
+}
+
+.anime-imagem{
+    width: 18%;
+}
+
+.animes{
+    background-image: linear-gradient(#000000,#00045C);
+    color: white;
+    padding: 10px 0;
+}
+
+.animes-título{
+    padding: 50px;
+}
+
+.foto-anime{
+    width: 240px;
+    padding: 40px;
+}
+
+.anime-nome{
+text-align: center;
+}
+
+.fotos-div{ 
+    text-align: center;
+}
+
+.animes-todos{
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+}
+
+.roda-pé{
+    text-align: center;
+    padding: 70px;
+    color: white;
+   background-color: #00045C;
+}
